@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/agency-gsap/static/css/main.5058b451.chunk.css",
+    "main.js": "/agency-gsap/static/js/main.6a82c771.chunk.js",
+    "main.js.map": "/agency-gsap/static/js/main.6a82c771.chunk.js.map",
+    "runtime-main.js": "/agency-gsap/static/js/runtime-main.5d7625d5.js",
+    "runtime-main.js.map": "/agency-gsap/static/js/runtime-main.5d7625d5.js.map",
+    "static/js/2.95694cc6.chunk.js": "/agency-gsap/static/js/2.95694cc6.chunk.js",
+    "static/js/2.95694cc6.chunk.js.map": "/agency-gsap/static/js/2.95694cc6.chunk.js.map",
+    "index.html": "/agency-gsap/index.html",
+    "precache-manifest.2ba3637ac01d71b4aaa18b4a48c9f721.js": "/agency-gsap/precache-manifest.2ba3637ac01d71b4aaa18b4a48c9f721.js",
+    "service-worker.js": "/agency-gsap/service-worker.js",
+    "static/css/main.5058b451.chunk.css.map": "/agency-gsap/static/css/main.5058b451.chunk.css.map",
+    "static/js/2.95694cc6.chunk.js.LICENSE.txt": "/agency-gsap/static/js/2.95694cc6.chunk.js.LICENSE.txt",
+    "static/media/arrow-left.f9a44e1c.svg": "/agency-gsap/static/media/arrow-left.f9a44e1c.svg",
+    "static/media/arrow-right.dc372a07.svg": "/agency-gsap/static/media/arrow-right.dc372a07.svg",
+    "static/media/curology-min.png": "/agency-gsap/static/media/curology-min.e84c2055.png",
+    "static/media/lumin-min.png": "/agency-gsap/static/media/lumin-min.379bad94.png",
+    "static/media/up-arrow-circle.d6c4e78d.svg": "/agency-gsap/static/media/up-arrow-circle.d6c4e78d.svg",
+    "static/media/yourspace-min.png": "/agency-gsap/static/media/yourspace-min.5f9e3077.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d7625d5.js",
+    "static/js/2.95694cc6.chunk.js",
+    "static/css/main.5058b451.chunk.css",
+    "static/js/main.6a82c771.chunk.js"
+  ]
+}
